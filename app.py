@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'Python for web development is good'
+    return 'Removed The requirement file'
 
 
 if __name__ == '__main__':
