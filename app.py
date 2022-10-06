@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'Removed The requirement file'
+    return 'Removed The'
 
 
 if __name__ == '__main__':
