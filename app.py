@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'Python for web development'
+    return 'Python for web development is good'
 
 
 if __name__ == '__main__':
